@@ -5,5 +5,6 @@ pub mod id004;
 pub mod id005;
 pub mod id006;
 pub mod id007;
+pub mod id008;
 
 pub mod prime;
