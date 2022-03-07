@@ -1,4 +1,4 @@
-#[derive(Debug)]
+#[derive(Debug, Default)]
 pub struct Fib {
     prev: Option<usize>,
     two_ago: Option<usize>,
