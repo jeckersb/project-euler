@@ -3,3 +3,4 @@ pub mod id002;
 pub mod id003;
 pub mod id004;
 pub mod id005;
+pub mod id006;
