@@ -9,5 +9,8 @@ pub mod id008;
 pub mod id009;
 pub mod id010;
 pub mod id011;
+pub mod id012;
 
+pub mod factor;
 pub mod prime;
+pub mod triangle_numbers;
