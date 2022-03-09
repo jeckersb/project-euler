@@ -11,7 +11,9 @@ pub mod id010;
 pub mod id011;
 pub mod id012;
 pub mod id013;
+pub mod id014;
 
+pub mod collatz;
 pub mod factor;
 pub mod prime;
 pub mod triangle_numbers;
