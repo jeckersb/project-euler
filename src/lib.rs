@@ -14,6 +14,7 @@ pub mod id013;
 pub mod id014;
 pub mod id015;
 pub mod id016;
+pub mod id017;
 
 pub mod collatz;
 pub mod factor;
